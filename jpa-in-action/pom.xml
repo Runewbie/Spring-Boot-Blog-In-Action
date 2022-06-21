@@ -63,7 +63,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.16</version>
+            <version>8.0.28</version>
         </dependency>
         <!-- 内存数据库，只在运行时使用，因为目前还没有使用mysql数据库，引入了mysql的依赖之后启动会报错，所以先引入h2内存数据库-->
         <dependency>
